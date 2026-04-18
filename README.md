@@ -1,9 +1,9 @@
 <h1 align="center">Hi there, I'm Zain 👋</h1>
 <p align="center">
-  🌟 <strong>Aspiring Web Developer | Laravel Enthusiast | IT Student</strong> <br>
+  🌟 <strong>Aspiring Web Developer | PHP Enthusiast | IT Student</strong> <br>
   🎓 <strong>BSIT Student at BZU Subcampus, Lodhran</strong> <br>
   💡 <strong>Passionate about building creative and user-friendly websites.</strong> <br>
-  💪 <strong>Currently working on projects with HTML, CSS, JavaScript, PHP, and Laravel.</strong> <br>
+  💪 <strong>Currently working on projects with HTML, CSS, JavaScript, PHP and Python.</strong> <br>
   🌱 <strong>Exploring AI-powered tools and expanding my skills in web development.</strong> <br>
   
 </p>
